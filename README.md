@@ -7,20 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## CRUD Laravel
 
-# Tecnologias instaladas:
+
+# CRUD Laravel
+
+## Tecnologias instaladas:
 
 - Servidor Apache
 - SGBD Mysql
 - PhpMyAdmin
 
-# Instalações do Projeto
+## Instalações do Projeto
 
 - Instalar o PHP e extensões do Laravel
 - Instalar o Composer
 - Baixar as dependências do projeto usando composer update
+
+- Alterar o arquivo .env com as configurações de conexão do mysql
 - Rodar php artisan migrate
 - Rodar php artisan serve
+
 
 
